@@ -29,6 +29,8 @@ chrome-profiler-events*.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+# Added whole directory as it did not exist before and I'm assuming that we don't want it here.
+.vscode
 
 # misc
 /.angular/cache
